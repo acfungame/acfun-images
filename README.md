@@ -1,5 +1,5 @@
 # acfun-images
-acfun图片资源
+acfun图片资源  AC娘版权归AcFun所有
 
 
 ## AC娘表情
