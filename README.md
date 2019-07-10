@@ -11,4 +11,4 @@ acfun图片资源
 
 
 
-AC娘版权归[AcFun](https://www.acfun.cn)所有
+AC娘版权归 [AcFun](https://www.acfun.cn "AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ") 所有
